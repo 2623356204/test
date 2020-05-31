@@ -8,4 +8,5 @@ public class User {
     private String pass;
     private String sex;
     int i=0;
+    int y=0;
 }
