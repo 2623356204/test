@@ -6,5 +6,6 @@
 public class User {
     private String name;
     private String pass;
-
+    private String sex;
+    int i=0;
 }
